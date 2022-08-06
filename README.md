@@ -6,5 +6,3 @@ in this task I have been create speech to text by HTML , CSS ,JS.
 مصادر
 
 https://youtu.be/-k-PgvbktX4
-
-image
